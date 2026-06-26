@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated project outputs
+firewall_convergence.png
+firewall_optimization_results.csv
+dataset_preprocessing_summary.csv
+
+# Local dataset
+Dataset.csv
